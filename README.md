@@ -10,7 +10,7 @@ Additionally, Citizen Simulator can simulate opinions in multiple languages and 
 #
 ### Related Links
 
-[CHatGPT](https://github.com/sourceduty/ChatGPT)
+[ChatGPT](https://github.com/sourceduty/ChatGPT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
